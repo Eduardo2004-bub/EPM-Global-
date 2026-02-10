@@ -1,0 +1,7 @@
+{
+  "name": "EPM Global ",
+  "description": "A sophisticated multi-language news aggregator and business intelligence platform with regional filtering and data-driven market insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
